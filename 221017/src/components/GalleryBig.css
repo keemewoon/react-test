@@ -1,0 +1,3 @@
+.GalleryBig { width: 600px; height: 400px; position: relative; margin-bottom: 20px;}
+.GalleryBig img {}
+.GalleryBig h2  { position: absolute; left: 30px; top: 30px; font-size: 30px; color:#fff }

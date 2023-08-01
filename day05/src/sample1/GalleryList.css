@@ -1,0 +1,4 @@
+.GalleryList { display: flex; flex-wrap: wrap;}
+.GalleryList li {width: 100px; margin-right: 10px; margin-bottom: 10px; padding: 5px; background: #dcdcdc;}
+.GalleryList li.on { background: orange;}
+.GalleryList li img  {width:100px; vertical-align: top; }
